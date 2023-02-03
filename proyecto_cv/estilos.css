@@ -1,0 +1,38 @@
+#fondo {
+    width: 75%;
+    height: 700px;;
+    background: #FDEBD0;
+    margin: 0.3em auto;
+    padding: 0.3em;
+
+}
+h1, h2{
+    color: rgb(110, 119, 128);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:underline;
+    
+
+}
+h3{
+    color: black;
+    text-decoration: underline;
+
+}
+
+
+#datos_personales{
+    width: 30%;
+    height: 100%;
+    background: #d6c2ac;
+    float: left;
+    
+}
+
+#datos_laborales{
+    width: 50%;
+    height: 90%; 
+    margin: 0.3em auto;
+    padding-left: 3%;
+    float: left;
+  }
